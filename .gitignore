@@ -1,0 +1,83 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+env/
+venv/
+ENV/
+
+# Environment Variables
+.env
+
+# FastAPI / Uvicorn
+*.log
+
+# Uploads
+uploads/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Python Packaging
+build/
+dist/
+*.egg-info/
+
+# SQLite
+*.db
+*.sqlite3
+
+# Cache
+.cache/
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Model Files
+*.pt
+*.pth
+*.h5
+*.onnx
+*.ckpt
+
+# OCR / AI Generated Outputs
+output/
+results/
+
+# ngrok
+.ngrok2/
+
+# Coverage Reports
+htmlcov/
+.coverage
+coverage.xml
+
+# Mypy
+.mypy_cache/
+
+# pytest
+.pytest_cache/
+
+# Ruff
+.ruff_cache/
+
+# Node Modules (if frontend added later)
+node_modules/
+
+# Secrets
+secrets.json
+credentials.json
+config.json
