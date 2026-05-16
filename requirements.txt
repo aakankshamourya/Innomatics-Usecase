@@ -1,5 +1,11 @@
-opencv-python-headless
-numpy
+fastapi
 uvicorn
-pydantic
-EasyOCR
+python-multipart
+numpy
+pillow
+easyocr
+opencv-python-headless
+scikit-image
+scikit-learn
+torch
+torchvision
